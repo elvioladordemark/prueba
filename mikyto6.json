@@ -1382,6 +1382,6 @@ http://tv.iprotv.live/movie/ProYeCtoX998/NuevaProyectoRw/101958.mkv
 #EXTINF:-1 group-title="SENSA " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
 https://smt-edge04.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
